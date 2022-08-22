@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.a34a413a.css",
+    "main.js": "/Portfolio-website/static/js/main.d8f57f2d.js",
+    "static/media/me.png": "/Portfolio-website/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/Portfolio-website/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/E_1.jpeg": "/Portfolio-website/static/media/E_1.bc5a0ead9cac2a05b280.jpeg",
+    "static/media/Mart_1.jpeg": "/Portfolio-website/static/media/Mart_1.d3a04a9331079b634ca2.jpeg",
+    "static/media/Mart_6.jpeg": "/Portfolio-website/static/media/Mart_6.3a6e887b6cbe60a8b9c8.jpeg",
+    "static/media/Mart_4.jpeg": "/Portfolio-website/static/media/Mart_4.eaece779223eaf2b52cc.jpeg",
+    "static/media/Mart_5.jpeg": "/Portfolio-website/static/media/Mart_5.45a12d0fb75ea31577f4.jpeg",
+    "static/media/Mart_2.jpeg": "/Portfolio-website/static/media/Mart_2.09ff2e3e3ac06213a86f.jpeg",
+    "static/media/Jogendra_CV.pdf": "/Portfolio-website/static/media/Jogendra_CV.c0bbe3796c1c41861f34.pdf",
+    "static/media/Mart_3.jpeg": "/Portfolio-website/static/media/Mart_3.02b46a7c463511fdfc41.jpeg",
+    "static/media/Chat_app_1.jpeg": "/Portfolio-website/static/media/Chat_app_1.03bcaa0ceb08d73349eb.jpeg",
+    "static/media/Chat_app_2.jpeg": "/Portfolio-website/static/media/Chat_app_2.f435202389fa8309ab3b.jpeg",
+    "index.html": "/Portfolio-website/index.html",
+    "main.a34a413a.css.map": "/Portfolio-website/static/css/main.a34a413a.css.map",
+    "main.d8f57f2d.js.map": "/Portfolio-website/static/js/main.d8f57f2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a34a413a.css",
+    "static/js/main.d8f57f2d.js"
+  ]
+}
